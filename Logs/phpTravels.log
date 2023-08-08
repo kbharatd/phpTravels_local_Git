@@ -34,3 +34,555 @@
  2023-08-07 18:06:38,118 : INFO : Test_Login : test_login_002 : 76 : Click on logout
  2023-08-07 18:06:38,253 : INFO : Test_Login : test_login_002 : 81 : test_login_002 is passed
  2023-08-07 18:06:38,254 : INFO : Test_Login : test_login_002 : 94 : test_login_002 is completed
+ 2023-08-07 18:34:04,958 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 18:34:04,959 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 18:34:04,959 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 18:34:07,822 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 18:34:08,052 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 18:34:08,053 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 18:34:13,151 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 18:34:13,306 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 18:34:13,432 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 18:34:19,151 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 18:34:28,521 : INFO : Test_Login : test_login_002 : 72 : Click on Menu
+ 2023-08-07 18:34:32,976 : INFO : Test_Login : test_login_002 : 76 : Click on logout
+ 2023-08-07 18:34:33,095 : INFO : Test_Login : test_login_002 : 81 : test_login_002 is passed
+ 2023-08-07 18:34:33,095 : INFO : Test_Login : test_login_002 : 94 : test_login_002 is completed
+ 2023-08-07 19:02:32,624 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 19:02:32,625 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 19:02:34,426 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:02:34,543 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 19:02:34,543 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 19:02:40,068 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 19:24:21,989 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 19:24:21,990 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 19:24:24,708 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:24:24,824 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 19:24:24,825 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 19:24:32,323 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 19:24:33,571 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:24:33,690 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 19:24:33,749 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 19:24:39,845 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 19:24:49,045 : INFO : Test_Login : test_login_002 : 72 : Click on Menu
+ 2023-08-07 19:24:53,672 : INFO : Test_Login : test_login_002 : 76 : Click on logout
+ 2023-08-07 19:24:53,764 : INFO : Test_Login : test_login_002 : 81 : test_login_002 is passed
+ 2023-08-07 19:24:53,764 : INFO : Test_Login : test_login_002 : 94 : test_login_002 is completed
+ 2023-08-07 19:55:02,673 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 19:55:02,673 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 19:55:12,638 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:55:12,748 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 19:55:12,748 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 19:55:22,936 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 19:55:22,937 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 19:55:24,377 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:55:24,480 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 19:55:24,480 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 19:55:29,466 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 19:55:29,466 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 19:55:30,873 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:55:30,974 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 19:55:30,974 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 19:55:38,780 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 19:55:38,781 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 19:55:40,554 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:55:40,671 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 19:55:40,671 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 19:55:47,515 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 19:55:48,280 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:55:48,411 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 19:55:48,485 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->admin
+ 2023-08-07 19:55:50,624 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 19:56:05,792 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 19:56:06,818 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:56:06,924 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 19:56:06,988 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->admin
+ 2023-08-07 19:56:08,921 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 19:56:13,933 : INFO : Test_Login : test_login_002 : 91 : test_login_002 is failed
+ 2023-08-07 19:56:14,165 : INFO : Test_Login : test_login_002 : 104 : test_login_002 is completed
+ 2023-08-07 19:56:19,490 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 19:56:20,567 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:56:20,688 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 19:56:20,764 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->admin1
+ 2023-08-07 19:56:23,195 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 19:56:28,202 : INFO : Test_Login : test_login_002 : 91 : test_login_002 is failed
+ 2023-08-07 19:56:28,415 : INFO : Test_Login : test_login_002 : 104 : test_login_002 is completed
+ 2023-08-07 19:56:51,093 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 19:56:52,428 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:56:52,534 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 19:56:52,592 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->admin1
+ 2023-08-07 19:56:54,866 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 19:56:59,880 : INFO : Test_Login : test_login_002 : 91 : test_login_002 is failed
+ 2023-08-07 19:57:00,219 : INFO : Test_Login : test_login_002 : 104 : test_login_002 is completed
+ 2023-08-07 19:58:56,797 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 19:58:56,798 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 19:58:58,485 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:58:58,618 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 19:58:58,618 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 19:59:04,451 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 19:59:05,866 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 19:59:05,965 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 19:59:06,021 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->admin
+ 2023-08-07 19:59:06,836 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 19:59:14,459 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:03:38,778 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 20:03:38,779 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 20:03:39,690 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:03:39,807 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 20:03:39,808 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 20:03:45,905 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:03:49,729 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:03:49,857 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 20:03:49,915 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 20:03:53,816 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:04:03,020 : INFO : Test_Login : test_login_002 : 73 : Click on Menu
+ 2023-08-07 20:04:07,574 : INFO : Test_Login : test_login_002 : 77 : Click on logout
+ 2023-08-07 20:04:07,574 : INFO : Test_Login : test_login_002 : 80 : test_login_002 is passed
+ 2023-08-07 20:04:07,574 : INFO : Test_Login : test_login_002 : 104 : test_login_002 is completed
+ 2023-08-07 20:04:17,869 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:04:20,843 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:04:20,944 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 20:04:21,010 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 20:04:23,453 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:04:28,469 : INFO : Test_Login : test_login_002 : 91 : test_login_002 is failed
+ 2023-08-07 20:04:28,620 : INFO : Test_Login : test_login_002 : 104 : test_login_002 is completed
+ 2023-08-07 20:04:33,309 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:04:34,391 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:04:34,488 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 20:04:34,549 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin1
+ 2023-08-07 20:04:35,720 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:04:40,742 : INFO : Test_Login : test_login_002 : 91 : test_login_002 is failed
+ 2023-08-07 20:04:40,930 : INFO : Test_Login : test_login_002 : 104 : test_login_002 is completed
+ 2023-08-07 20:04:47,893 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:04:51,997 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:04:52,096 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 20:04:52,155 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin1
+ 2023-08-07 20:04:53,446 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:04:58,456 : INFO : Test_Login : test_login_002 : 91 : test_login_002 is failed
+ 2023-08-07 20:04:58,650 : INFO : Test_Login : test_login_002 : 104 : test_login_002 is completed
+ 2023-08-07 20:23:51,827 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 20:23:51,827 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 20:23:53,674 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:23:53,784 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 20:23:53,785 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 20:24:14,919 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:24:43,980 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:24:44,127 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 20:24:44,223 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 20:28:43,146 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:33:34,984 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 20:33:34,984 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 20:33:37,393 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:33:37,499 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 20:33:37,499 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 20:33:47,348 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:33:55,904 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:33:56,012 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 20:33:56,082 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 20:34:02,567 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:34:11,736 : INFO : Test_Login : test_login_002 : 72 : Click on Menu
+ 2023-08-07 20:34:17,277 : INFO : Test_Login : test_login_002 : 76 : Click on logout
+ 2023-08-07 20:34:17,374 : INFO : Test_Login : test_login_002 : 81 : test_login_002 is passed
+ 2023-08-07 20:34:17,374 : INFO : Test_Login : test_login_002 : 94 : test_login_002 is completed
+ 2023-08-07 20:47:30,654 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 20:47:30,657 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 20:47:38,696 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:47:38,877 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 20:47:38,877 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 20:47:49,279 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:47:51,115 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:47:51,252 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 20:47:51,312 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 20:47:56,137 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:48:05,456 : INFO : Test_Login : test_login_002 : 72 : Click on Menu
+ 2023-08-07 20:48:09,080 : INFO : Test_Login : test_login_002 : 76 : Click on logout
+ 2023-08-07 20:48:09,178 : INFO : Test_Login : test_login_002 : 81 : test_login_002 is passed
+ 2023-08-07 20:48:09,178 : INFO : Test_Login : test_login_002 : 94 : test_login_002 is completed
+ 2023-08-07 20:49:28,736 : INFO : Test_Login : test_page_title_001 : 15 : test_page_title_001 is started
+ 2023-08-07 20:49:28,736 : INFO : Test_Login : test_page_title_001 : 18 : Opening Browser
+ 2023-08-07 20:49:30,397 : INFO : Test_Login : test_page_title_001 : 23 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:49:30,494 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-08-07 20:49:30,494 : INFO : Test_Login : test_page_title_001 : 43 : test_test_page_title_001 is completed
+ 2023-08-07 20:49:39,864 : INFO : Test_Login : test_login_002 : 47 : Opening Browser
+ 2023-08-07 20:49:41,742 : INFO : Test_Login : test_login_002 : 51 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 20:49:41,881 : INFO : Test_Login : test_login_002 : 54 : Entering Email--->admin@phptravels.com
+ 2023-08-07 20:49:41,978 : INFO : Test_Login : test_login_002 : 57 : Entering Password--->demoadmin
+ 2023-08-07 20:49:47,303 : INFO : Test_Login : test_login_002 : 60 : Click on login
+ 2023-08-07 20:49:56,521 : INFO : Test_Login : test_login_002 : 72 : Click on Menu
+ 2023-08-07 20:50:00,577 : INFO : Test_Login : test_login_002 : 76 : Click on logout
+ 2023-08-07 20:50:00,779 : INFO : Test_Login : test_login_002 : 81 : test_login_002 is passed
+ 2023-08-07 20:50:00,779 : INFO : Test_Login : test_login_002 : 94 : test_login_002 is completed
+ 2023-08-07 21:51:53,150 : INFO : Test_Login : test_page_title_001 : 17 : test_page_title_001 is started
+ 2023-08-07 21:51:53,151 : INFO : Test_Login : test_page_title_001 : 20 : Opening Browser
+ 2023-08-07 21:51:57,662 : INFO : Test_Login : test_page_title_001 : 25 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 21:51:57,923 : INFO : Test_Login : test_page_title_001 : 33 : test_page_title_001 is passed
+ 2023-08-07 21:51:57,924 : INFO : Test_Login : test_page_title_001 : 45 : test_test_page_title_001 is completed
+ 2023-08-07 21:52:10,679 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 21:52:12,380 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 21:53:19,963 : INFO : Test_Login : test_page_title_001 : 17 : test_page_title_001 is started
+ 2023-08-07 21:53:19,963 : INFO : Test_Login : test_page_title_001 : 20 : Opening Browser
+ 2023-08-07 21:56:27,650 : INFO : Test_Login : test_page_title_001 : 25 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 21:56:27,893 : INFO : Test_Login : test_page_title_001 : 33 : test_page_title_001 is passed
+ 2023-08-07 21:56:27,893 : INFO : Test_Login : test_page_title_001 : 45 : test_test_page_title_001 is completed
+ 2023-08-07 21:57:49,463 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 22:00:23,484 : INFO : Test_Login : test_page_title_001 : 17 : test_page_title_001 is started
+ 2023-08-07 22:00:28,490 : INFO : Test_Login : test_page_title_001 : 22 : Opening Browser
+ 2023-08-07 22:00:33,063 : INFO : Test_Login : test_page_title_001 : 27 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:00:39,183 : INFO : Test_Login : test_page_title_001 : 38 : test_page_title_001 is passed
+ 2023-08-07 22:00:39,183 : INFO : Test_Login : test_page_title_001 : 50 : test_test_page_title_001 is completed
+ 2023-08-07 22:01:00,696 : INFO : Test_Login : test_login_002 : 55 : Opening Browser
+ 2023-08-07 22:01:14,943 : INFO : Test_Login : test_login_002 : 59 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:07:55,999 : INFO : Test_Login : test_page_title_001 : 17 : test_page_title_001 is started
+ 2023-08-07 22:08:01,003 : INFO : Test_Login : test_page_title_001 : 22 : Opening Browser
+ 2023-08-07 22:08:04,300 : INFO : Test_Login : test_page_title_001 : 27 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:08:10,444 : INFO : Test_Login : test_page_title_001 : 38 : test_page_title_001 is passed
+ 2023-08-07 22:08:10,444 : INFO : Test_Login : test_page_title_001 : 50 : test_test_page_title_001 is completed
+ 2023-08-07 22:08:24,794 : INFO : Test_Login : test_login_002 : 55 : Opening Browser
+ 2023-08-07 22:08:37,890 : INFO : Test_Login : test_login_002 : 59 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:16:22,922 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-07 22:16:27,926 : INFO : Test_Login : test_page_title_001 : 23 : Opening Browser
+ 2023-08-07 22:16:29,976 : INFO : Test_Login : test_page_title_001 : 28 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:16:36,110 : INFO : Test_Login : test_page_title_001 : 39 : test_page_title_001 is passed
+ 2023-08-07 22:16:36,112 : INFO : Test_Login : test_page_title_001 : 51 : test_test_page_title_001 is completed
+ 2023-08-07 22:16:57,669 : INFO : Test_Login : test_login_002 : 56 : Opening Browser
+ 2023-08-07 22:17:03,250 : INFO : Test_Login : test_login_002 : 60 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:23:19,550 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-07 22:23:24,552 : INFO : Test_Login : test_page_title_001 : 23 : Opening Browser
+ 2023-08-07 22:23:26,817 : INFO : Test_Login : test_page_title_001 : 28 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:23:32,939 : INFO : Test_Login : test_page_title_001 : 39 : test_page_title_001 is passed
+ 2023-08-07 22:23:32,940 : INFO : Test_Login : test_page_title_001 : 51 : test_test_page_title_001 is completed
+ 2023-08-07 22:23:49,910 : INFO : Test_Login : test_login_002 : 56 : Opening Browser
+ 2023-08-07 22:23:56,572 : INFO : Test_Login : test_login_002 : 60 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:29:54,535 : INFO : Test_Login : test_login_002 : 55 : Opening Browser
+ 2023-08-07 22:29:59,002 : INFO : Test_Login : test_page_title_001 : 17 : test_page_title_001 is started
+ 2023-08-07 22:30:04,003 : INFO : Test_Login : test_page_title_001 : 22 : Opening Browser
+ 2023-08-07 22:30:10,493 : INFO : Test_Login : test_page_title_001 : 27 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:30:15,743 : INFO : Test_Login : test_login_002 : 59 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:30:16,630 : INFO : Test_Login : test_page_title_001 : 38 : test_page_title_001 is passed
+ 2023-08-07 22:30:16,630 : INFO : Test_Login : test_page_title_001 : 50 : test_test_page_title_001 is completed
+ 2023-08-07 22:42:46,667 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 22:42:49,597 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:49:01,419 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 22:49:03,037 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:50:18,616 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 22:50:21,081 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:52:48,112 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 22:54:56,944 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 22:54:59,967 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:55:00,149 : INFO : Test_Login : test_login_002 : 59 : Entering Email--->admin@phptravels.com
+ 2023-08-07 22:55:00,258 : INFO : Test_Login : test_login_002 : 62 : Entering Password--->demoadmin
+ 2023-08-07 22:55:07,616 : INFO : Test_Login : test_login_002 : 65 : Click on login
+ 2023-08-07 22:55:16,865 : INFO : Test_Login : test_login_002 : 77 : Click on Menu
+ 2023-08-07 22:55:19,574 : INFO : Test_Login : test_login_002 : 81 : Click on logout
+ 2023-08-07 22:55:19,720 : INFO : Test_Login : test_login_002 : 86 : test_login_002 is passed
+ 2023-08-07 22:55:19,720 : INFO : Test_Login : test_login_002 : 99 : test_login_002 is completed
+ 2023-08-07 22:58:40,638 : INFO : Test_Login : test_page_title_001 : 17 : test_page_title_001 is started
+ 2023-08-07 22:58:45,642 : INFO : Test_Login : test_page_title_001 : 22 : Opening Browser
+ 2023-08-07 22:59:00,209 : INFO : Test_Login : test_page_title_001 : 27 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:59:06,340 : INFO : Test_Login : test_page_title_001 : 38 : test_page_title_001 is passed
+ 2023-08-07 22:59:06,341 : INFO : Test_Login : test_page_title_001 : 50 : test_test_page_title_001 is completed
+ 2023-08-07 22:59:29,428 : INFO : Test_Login : test_login_002 : 55 : Opening Browser
+ 2023-08-07 22:59:31,640 : INFO : Test_Login : test_login_002 : 59 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 22:59:34,905 : INFO : Test_Login : test_login_002 : 73 : Entering Email--->admin@phptravels.com
+ 2023-08-07 22:59:35,008 : INFO : Test_Login : test_login_002 : 76 : Entering Password--->demoadmin
+ 2023-08-07 22:59:38,327 : INFO : Test_Login : test_login_002 : 81 : Click on login
+ 2023-08-07 22:59:50,574 : INFO : Test_Login : test_login_002 : 94 : Click on Menu
+ 2023-08-07 22:59:54,298 : INFO : Test_Login : test_login_002 : 98 : Click on logout
+ 2023-08-07 23:08:38,212 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 23:08:40,672 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 23:08:40,894 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:08:40,999 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin
+ 2023-08-07 23:08:48,433 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:08:57,554 : INFO : Test_Login : test_login_002 : 79 : Click on Menu
+ 2023-08-07 23:09:36,608 : INFO : Test_Login : test_login_002 : 83 : Click on logout
+ 2023-08-07 23:09:36,788 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 23:09:36,895 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin
+ 2023-08-07 23:09:37,219 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:09:42,369 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:09:42,484 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin1
+ 2023-08-07 23:10:05,464 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:10:10,694 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 23:10:10,823 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin1
+ 2023-08-07 23:10:12,550 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:13:26,676 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 23:13:27,217 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 23:13:27,359 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:13:27,437 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin
+ 2023-08-07 23:16:31,891 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:17:00,834 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 23:17:02,015 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 23:17:02,249 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:17:02,367 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin
+ 2023-08-07 23:17:10,775 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:17:19,875 : INFO : Test_Login : test_login_002 : 79 : Click on Menu
+ 2023-08-07 23:17:23,253 : INFO : Test_Login : test_login_002 : 83 : Click on logout
+ 2023-08-07 23:19:39,141 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 23:20:03,620 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 23:20:05,209 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 23:20:05,382 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:20:05,468 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin
+ 2023-08-07 23:21:17,456 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:21:44,053 : INFO : Test_Login : test_login_002 : 49 : Opening Browser
+ 2023-08-07 23:21:46,059 : INFO : Test_Login : test_login_002 : 53 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 23:21:46,184 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:21:46,208 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin
+ 2023-08-07 23:21:54,270 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:22:03,516 : INFO : Test_Login : test_login_002 : 79 : Click on Menu
+ 2023-08-07 23:22:10,759 : INFO : Test_Login : test_login_002 : 83 : Click on logout
+ 2023-08-07 23:22:17,980 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 23:22:18,008 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin
+ 2023-08-07 23:22:21,353 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:22:26,482 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:22:26,508 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin1
+ 2023-08-07 23:22:32,377 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:22:37,500 : INFO : Test_Login : test_login_002 : 65 : Entering Email--->admin@phptravels.com1
+ 2023-08-07 23:22:37,525 : INFO : Test_Login : test_login_002 : 68 : Entering Password--->demoadmin1
+ 2023-08-07 23:22:51,073 : INFO : Test_Login : test_login_002 : 71 : Click on login
+ 2023-08-07 23:22:56,125 : INFO : Test_Login : test_login_002 : 99 : test_login_002 is failed
+ 2023-08-07 23:30:34,684 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-07 23:30:39,696 : INFO : Test_Login : test_page_title_001 : 23 : Opening Browser
+ 2023-08-07 23:30:42,462 : INFO : Test_Login : test_page_title_001 : 28 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 23:30:48,532 : INFO : Test_Login : test_page_title_001 : 39 : test_page_title_001 is passed
+ 2023-08-07 23:30:48,532 : INFO : Test_Login : test_page_title_001 : 51 : test_test_page_title_001 is completed
+ 2023-08-07 23:31:00,587 : INFO : Test_Login : test_login_002 : 56 : Opening Browser
+ 2023-08-07 23:31:13,357 : INFO : Test_Login : test_login_002 : 60 : Go to this url--->https://phptravels.net/admin
+ 2023-08-07 23:31:16,485 : INFO : Test_Login : test_login_002 : 74 : Entering Email--->admin@phptravels.com
+ 2023-08-07 23:31:16,508 : INFO : Test_Login : test_login_002 : 77 : Entering Password--->demoadmin
+ 2023-08-07 23:31:25,015 : INFO : Test_Login : test_login_002 : 82 : Click on login
+ 2023-08-07 23:31:35,089 : INFO : Test_Login : test_login_002 : 114 : test_login_002 is failed
+ 2023-08-07 23:34:42,077 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-07 23:34:47,086 : INFO : Test_Login : test_page_title_001 : 23 : Opening Browser
+ 2023-08-07 23:37:56,822 : INFO : Test_Login : test_page_title_001 : 28 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 10:21:23,359 : INFO : Test_Login_DDT : test_login_ddt_004 : 20 : Opening Browser
+ 2023-08-08 10:21:23,888 : INFO : Test_Login_DDT : test_login_ddt_004 : 24 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 10:21:26,998 : INFO : Test_Login_DDT : test_login_ddt_004 : 39 : Entering Email--->admin@phptravels.com
+ 2023-08-08 10:21:27,015 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Password--->demoadmin
+ 2023-08-08 10:21:31,932 : INFO : Test_Login_DDT : test_login_ddt_004 : 47 : Click on login
+ 2023-08-08 10:22:27,785 : INFO : Test_Login_DDT : test_login_ddt_004 : 20 : Opening Browser
+ 2023-08-08 10:22:28,484 : INFO : Test_Login_DDT : test_login_ddt_004 : 24 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 10:22:31,591 : INFO : Test_Login_DDT : test_login_ddt_004 : 39 : Entering Email--->admin@phptravels.com
+ 2023-08-08 10:22:31,611 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Password--->demoadmin
+ 2023-08-08 10:22:36,883 : INFO : Test_Login_DDT : test_login_ddt_004 : 47 : Click on login
+ 2023-08-08 10:22:41,889 : INFO : Test_Login_DDT : test_login_ddt_004 : 53 : Page Title -->Dashboard
+ 2023-08-08 10:22:42,126 : INFO : Test_Login_DDT : test_login_ddt_004 : 56 : Clicking Menu Button
+ 2023-08-08 10:22:42,914 : INFO : Test_Login_DDT : test_login_ddt_004 : 65 : Clicking Logout Button
+ 2023-08-08 10:22:42,993 : INFO : Test_Login_DDT : test_login_ddt_004 : 39 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 10:22:43,008 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Password--->demoadmin
+ 2023-08-08 10:22:46,824 : INFO : Test_Login_DDT : test_login_ddt_004 : 47 : Click on login
+ 2023-08-08 10:22:51,841 : INFO : Test_Login_DDT : test_login_ddt_004 : 103 : Page Title -->Administrators Login
+ 2023-08-08 10:22:51,943 : INFO : Test_Login_DDT : test_login_ddt_004 : 39 : Entering Email--->admin@phptravels.com
+ 2023-08-08 10:22:51,957 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Password--->demoadmin1
+ 2023-08-08 10:22:55,654 : INFO : Test_Login_DDT : test_login_ddt_004 : 47 : Click on login
+ 2023-08-08 10:23:00,663 : INFO : Test_Login_DDT : test_login_ddt_004 : 103 : Page Title -->Administrators Login
+ 2023-08-08 10:23:00,769 : INFO : Test_Login_DDT : test_login_ddt_004 : 39 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 10:23:00,788 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Password--->demoadmin1
+ 2023-08-08 10:23:04,533 : INFO : Test_Login_DDT : test_login_ddt_004 : 47 : Click on login
+ 2023-08-08 10:23:09,544 : INFO : Test_Login_DDT : test_login_ddt_004 : 103 : Page Title -->Administrators Login
+ 2023-08-08 10:23:11,588 : INFO : Test_Login_DDT : test_login_ddt_004 : 116 : test_login_ddt_004 is Passed
+ 2023-08-08 10:23:11,588 : INFO : Test_Login_DDT : test_login_ddt_004 : 123 : test_login_ddt_004 is completed
+ 2023-08-08 11:58:08,275 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-08 11:58:08,275 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-08 11:58:08,275 : INFO : Test_Login : test_page_title_001 : 21 : Opening Browser
+ 2023-08-08 11:58:08,275 : INFO : Test_Login : test_page_title_001 : 21 : Opening Browser
+ 2023-08-08 11:58:12,277 : INFO : Test_Login : test_login_002 : 51 : Opening Browser
+ 2023-08-08 11:58:12,277 : INFO : Test_Login : test_login_002 : 51 : Opening Browser
+ 2023-08-08 11:58:13,200 : INFO : Test_Login : test_login_002 : 55 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 11:58:13,200 : INFO : Test_Login : test_login_002 : 55 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 11:58:13,301 : INFO : Test_Login : test_login_002 : 58 : Entering Email--->admin@phptravels.com
+ 2023-08-08 11:58:13,301 : INFO : Test_Login : test_login_002 : 58 : Entering Email--->admin@phptravels.com
+ 2023-08-08 11:58:13,343 : INFO : Test_Login : test_login_002 : 61 : Entering Password--->demoadmin
+ 2023-08-08 11:58:13,343 : INFO : Test_Login : test_login_002 : 61 : Entering Password--->demoadmin
+ 2023-08-08 11:58:16,182 : INFO : Test_Login : test_login_002 : 64 : Click on login
+ 2023-08-08 11:58:16,182 : INFO : Test_Login : test_login_002 : 64 : Click on login
+ 2023-08-08 11:58:25,564 : INFO : Test_Login : test_login_002 : 76 : Click on Menu
+ 2023-08-08 11:58:25,564 : INFO : Test_Login : test_login_002 : 76 : Click on Menu
+ 2023-08-08 11:58:28,472 : INFO : Test_Login : test_login_002 : 80 : Click on logout
+ 2023-08-08 11:58:28,472 : INFO : Test_Login : test_login_002 : 80 : Click on logout
+ 2023-08-08 11:58:30,527 : INFO : Test_Login : test_login_002 : 85 : test_login_002 is passed
+ 2023-08-08 11:58:30,527 : INFO : Test_Login : test_login_002 : 85 : test_login_002 is passed
+ 2023-08-08 11:58:30,527 : INFO : Test_Login : test_login_002 : 98 : test_login_002 is completed
+ 2023-08-08 11:58:30,527 : INFO : Test_Login : test_login_002 : 98 : test_login_002 is completed
+ 2023-08-08 11:59:14,644 : INFO : Test_Login : test_page_title_001 : 26 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 11:59:14,644 : INFO : Test_Login : test_page_title_001 : 26 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 11:59:14,698 : INFO : Test_Login : test_page_title_001 : 34 : test_page_title_001 is passed
+ 2023-08-08 11:59:14,698 : INFO : Test_Login : test_page_title_001 : 34 : test_page_title_001 is passed
+ 2023-08-08 11:59:14,698 : INFO : Test_Login : test_page_title_001 : 46 : test_test_page_title_001 is completed
+ 2023-08-08 11:59:14,698 : INFO : Test_Login : test_page_title_001 : 46 : test_test_page_title_001 is completed
+ 2023-08-08 12:09:37,421 : INFO : Test_Login_DDT : test_login_ddt_004 : 23 : Opening Browser
+ 2023-08-08 12:09:38,055 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:09:38,055 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:09:38,561 : INFO : Test_Login_DDT : test_login_ddt_004 : 27 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:09:38,942 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:09:38,942 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:09:39,029 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:09:39,029 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:09:39,204 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:09:39,204 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:09:39,246 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:09:39,246 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:09:39,991 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:09:39,991 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:09:40,035 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:09:40,035 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:09:40,066 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:09:40,066 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:09:40,097 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:09:40,097 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:09:40,214 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:09:40,214 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:09:41,712 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:09:41,748 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : Entering Password--->demoadmin
+ 2023-08-08 12:09:42,343 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:09:42,343 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:09:42,471 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:09:42,471 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:09:42,508 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:09:42,508 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:09:43,043 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:09:43,043 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:09:44,716 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:09:44,716 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:09:45,228 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:09:45,228 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:09:46,857 : INFO : Test_Login_DDT : test_login_ddt_004 : 50 : Click on login
+ 2023-08-08 12:09:47,441 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:09:47,441 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:09:49,720 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:09:49,720 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:09:51,868 : INFO : Test_Login_DDT : test_login_ddt_004 : 56 : Page Title -->Dashboard
+ 2023-08-08 12:09:51,868 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:09:51,868 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:09:52,137 : INFO : Test_Login_DDT : test_login_ddt_004 : 59 : Clicking Menu Button
+ 2023-08-08 12:09:52,707 : INFO : Test_Login : test_login_params_003 : 76 : Click on Menu
+ 2023-08-08 12:09:52,707 : INFO : Test_Login : test_login_params_003 : 76 : Click on Menu
+ 2023-08-08 12:09:53,907 : INFO : Test_Login_DDT : test_login_ddt_004 : 68 : Clicking Logout Button
+ 2023-08-08 12:09:54,095 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:09:54,127 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : Entering Password--->demoadmin
+ 2023-08-08 12:09:56,220 : INFO : Test_Login : test_login_params_003 : 80 : Click on logout
+ 2023-08-08 12:09:56,220 : INFO : Test_Login : test_login_params_003 : 80 : Click on logout
+ 2023-08-08 12:09:56,220 : INFO : Test_Login : test_login_params_003 : 83 : test_login_002 is passed
+ 2023-08-08 12:09:56,220 : INFO : Test_Login : test_login_params_003 : 83 : test_login_002 is passed
+ 2023-08-08 12:09:56,220 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:09:56,220 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:09:58,320 : INFO : Test_Login_DDT : test_login_ddt_004 : 50 : Click on login
+ 2023-08-08 12:10:03,342 : INFO : Test_Login_DDT : test_login_ddt_004 : 106 : Page Title -->Administrators Login
+ 2023-08-08 12:10:03,507 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:10:03,539 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : Entering Password--->demoadmin1
+ 2023-08-08 12:10:08,199 : INFO : Test_Login_DDT : test_login_ddt_004 : 50 : Click on login
+ 2023-08-08 12:10:13,214 : INFO : Test_Login_DDT : test_login_ddt_004 : 106 : Page Title -->Administrators Login
+ 2023-08-08 12:10:13,354 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:10:13,401 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : Entering Password--->demoadmin1
+ 2023-08-08 12:10:17,651 : INFO : Test_Login_DDT : test_login_ddt_004 : 50 : Click on login
+ 2023-08-08 12:10:22,660 : INFO : Test_Login_DDT : test_login_ddt_004 : 106 : Page Title -->Administrators Login
+ 2023-08-08 12:10:24,707 : INFO : Test_Login_DDT : test_login_ddt_004 : 119 : test_login_ddt_004 is Passed
+ 2023-08-08 12:10:24,707 : INFO : Test_Login_DDT : test_login_ddt_004 : 126 : test_login_ddt_004 is completed
+ 2023-08-08 12:10:37,139 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:10:37,139 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:10:38,972 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:10:38,972 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:10:39,088 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:10:39,088 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:10:39,154 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:10:39,154 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:10:44,824 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:10:44,824 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:10:49,831 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:10:49,831 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:10:52,077 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:10:52,077 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:14:15,703 : INFO : Test_Login : test_login_002 : 51 : Opening Browser
+ 2023-08-08 12:14:15,703 : INFO : Test_Login : test_login_002 : 51 : Opening Browser
+ 2023-08-08 12:14:16,509 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-08 12:14:16,509 : INFO : Test_Login : test_page_title_001 : 18 : test_page_title_001 is started
+ 2023-08-08 12:14:16,509 : INFO : Test_Login : test_page_title_001 : 21 : Opening Browser
+ 2023-08-08 12:14:16,509 : INFO : Test_Login : test_page_title_001 : 21 : Opening Browser
+ 2023-08-08 12:14:16,710 : INFO : Test_Login : test_login_002 : 55 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:14:16,710 : INFO : Test_Login : test_login_002 : 55 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:14:16,865 : INFO : Test_Login : test_login_002 : 58 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:14:16,865 : INFO : Test_Login : test_login_002 : 58 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:14:16,973 : INFO : Test_Login : test_login_002 : 61 : Entering Password--->demoadmin
+ 2023-08-08 12:14:16,973 : INFO : Test_Login : test_login_002 : 61 : Entering Password--->demoadmin
+ 2023-08-08 12:14:17,702 : INFO : Test_Login : test_page_title_001 : 26 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:14:17,702 : INFO : Test_Login : test_page_title_001 : 26 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:14:17,968 : INFO : Test_Login : test_page_title_001 : 34 : test_page_title_001 is passed
+ 2023-08-08 12:14:17,968 : INFO : Test_Login : test_page_title_001 : 34 : test_page_title_001 is passed
+ 2023-08-08 12:14:17,976 : INFO : Test_Login : test_page_title_001 : 46 : test_test_page_title_001 is completed
+ 2023-08-08 12:14:17,976 : INFO : Test_Login : test_page_title_001 : 46 : test_test_page_title_001 is completed
+ 2023-08-08 12:14:19,981 : INFO : Test_Login : test_login_002 : 64 : Click on login
+ 2023-08-08 12:14:19,981 : INFO : Test_Login : test_login_002 : 64 : Click on login
+ 2023-08-08 12:14:29,417 : INFO : Test_Login : test_login_002 : 76 : Click on Menu
+ 2023-08-08 12:14:29,417 : INFO : Test_Login : test_login_002 : 76 : Click on Menu
+ 2023-08-08 12:14:32,302 : INFO : Test_Login : test_login_002 : 80 : Click on logout
+ 2023-08-08 12:14:32,302 : INFO : Test_Login : test_login_002 : 80 : Click on logout
+ 2023-08-08 12:14:34,472 : INFO : Test_Login : test_login_002 : 85 : test_login_002 is passed
+ 2023-08-08 12:14:34,472 : INFO : Test_Login : test_login_002 : 85 : test_login_002 is passed
+ 2023-08-08 12:14:34,472 : INFO : Test_Login : test_login_002 : 98 : test_login_002 is completed
+ 2023-08-08 12:14:34,472 : INFO : Test_Login : test_login_002 : 98 : test_login_002 is completed
+ 2023-08-08 12:15:23,594 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:15:23,594 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:15:24,661 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:15:24,661 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:15:24,748 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:15:24,748 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:15:24,931 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:15:24,931 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:15:25,062 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:15:25,062 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:15:26,362 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:15:26,362 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:15:26,922 : INFO : Test_Login_DDT : test_login_ddt_004 : 23 : Opening Browser
+ 2023-08-08 12:15:26,932 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:15:26,932 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:15:27,008 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:15:27,008 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:15:27,060 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:15:27,060 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:15:29,396 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:15:29,396 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:15:31,376 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:15:31,376 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:15:32,710 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:15:32,710 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:15:33,534 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:15:33,534 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:15:33,667 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:15:33,667 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:15:33,744 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:15:33,744 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin
+ 2023-08-08 12:15:34,010 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:15:34,010 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:15:34,404 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:15:34,404 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:15:35,890 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:15:35,890 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:15:36,589 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:15:36,589 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:15:45,306 : INFO : Test_Login : test_login_params_003 : 76 : Click on Menu
+ 2023-08-08 12:15:45,306 : INFO : Test_Login : test_login_params_003 : 76 : Click on Menu
+ 2023-08-08 12:15:48,317 : INFO : Test_Login : test_login_params_003 : 80 : Click on logout
+ 2023-08-08 12:15:48,317 : INFO : Test_Login : test_login_params_003 : 80 : Click on logout
+ 2023-08-08 12:15:48,317 : INFO : Test_Login : test_login_params_003 : 83 : test_login_002 is passed
+ 2023-08-08 12:15:48,317 : INFO : Test_Login : test_login_params_003 : 83 : test_login_002 is passed
+ 2023-08-08 12:15:48,317 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:15:48,317 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:16:48,462 : INFO : Test_Login_DDT : test_login_ddt_004 : 27 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:16:51,623 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Email--->admin@phptravels.com
+ 2023-08-08 12:16:51,655 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : Entering Password--->demoadmin
+ 2023-08-08 12:16:59,929 : INFO : Test_Login_DDT : test_login_ddt_004 : 50 : Click on login
+ 2023-08-08 12:17:04,944 : INFO : Test_Login_DDT : test_login_ddt_004 : 95 : Page Title -->Administrators Login
+ 2023-08-08 12:17:05,112 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:17:05,144 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : Entering Password--->demoadmin
+ 2023-08-08 12:17:21,187 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:17:21,187 : INFO : Test_Login : test_login_params_003 : 50 : Opening Browser
+ 2023-08-08 12:17:22,195 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:17:22,195 : INFO : Test_Login : test_login_params_003 : 54 : Go to this url--->https://phptravels.net/admin
+ 2023-08-08 12:17:22,293 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:17:22,293 : INFO : Test_Login : test_login_params_003 : 57 : Entering Email--->admin@phptravels.com1
+ 2023-08-08 12:17:22,446 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:17:22,446 : INFO : Test_Login : test_login_params_003 : 60 : Entering Password--->demoadmin1
+ 2023-08-08 12:17:23,563 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:17:23,563 : INFO : Test_Login : test_login_params_003 : 63 : Click on login
+ 2023-08-08 12:17:28,573 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:17:28,573 : INFO : Test_Login : test_login_params_003 : 94 : test_login_002 is failed
+ 2023-08-08 12:17:30,821 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
+ 2023-08-08 12:17:30,821 : INFO : Test_Login : test_login_params_003 : 107 : test_login_002 is completed
